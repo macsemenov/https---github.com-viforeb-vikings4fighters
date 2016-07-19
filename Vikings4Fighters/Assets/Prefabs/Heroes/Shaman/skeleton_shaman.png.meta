@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 6537ea7baa7396542be703cc1a8b42d6
+timeCreated: 1462111250
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: body
+    21300002: cloak+bag
+    21300004: cloak_top
+    21300006: head
+    21300008: knife
+    21300010: left_arm
+    21300012: left_arm_for_staff
+    21300014: left_bedro
+    21300016: left_boot
+    21300018: left_leg
+    21300020: light_bedro
+    21300022: poyas
+    21300024: right_arm
+    21300026: right_arm_for_staff
+    21300028: right_boot
+    21300030: right_leg
+    21300032: right_pie4o
+    21300034: skull
+    21300036: staff
+    21300038: tunica_za_nogoi
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 265
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: -22.5}
+        - {x: 118.5, y: 65.5}
+        - {x: 109.5, y: 76.5}
+        - {x: 53.5, y: 94.5}
+        - {x: -30.5, y: 94.5}
+        - {x: -49.5, y: 84.5}
+        - {x: -132.5, y: 10.5}
+        - {x: -132.5, y: -17.5}
+        - {x: -65.5, y: -95.5}
+        - {x: -26.5, y: -95.5}
+        - {x: 63.5, y: -67.5}
+        - {x: 86.5, y: -45.5}
+        - {x: 131.5, y: -48.5}
+        - {x: 132.5, y: -45.5}
+      - - {x: -104.5, y: 95.5}
+        - {x: -104.5, y: 93.5}
+        - {x: -102.5, y: 91.5}
+        - {x: -101.5, y: 91.5}
+        - {x: -98.5, y: 94.5}
+        - {x: -98.5, y: 95.5}
+    - name: cloak+bag
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 266
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 118}
+        - {x: -29, y: 118}
+        - {x: -59, y: 75}
+        - {x: -73, y: -57}
+        - {x: -133, y: -89}
+        - {x: -133, y: -107}
+        - {x: -130, y: -118}
+        - {x: -31, y: -118}
+        - {x: 101, y: -103}
+        - {x: 133, y: -20}
+        - {x: 133, y: 54}
+        - {x: 124, y: 56}
+    - name: cloak_top
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -37}
+        - {x: 8, y: -42}
+        - {x: 60, y: -64}
+        - {x: 60, y: 42}
+        - {x: 25, y: 71}
+        - {x: 14, y: 71}
+        - {x: -60, y: 1}
+        - {x: -60, y: -28}
+        - {x: -46, y: -71}
+        - {x: -33, y: -71}
+        - {x: -2, y: -41}
+        - {x: -10, y: -38}
+        - {x: -11, y: -38}
+      - - {x: 52, y: -39}
+        - {x: 55, y: -38}
+        - {x: 55, y: -35}
+        - {x: 52, y: -34}
+        - {x: 50, y: -36}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 91}
+        - {x: -82, y: 91}
+        - {x: -82, y: -49}
+        - {x: -6, y: -91}
+        - {x: 82, y: -91}
+        - {x: 82, y: -26}
+        - {x: 45, y: 59}
+    - name: knife
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 472
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 17}
+        - {x: -25, y: 14}
+        - {x: -25, y: -14}
+        - {x: -21, y: -17}
+        - {x: 4, y: -17}
+        - {x: 22, y: -14}
+        - {x: 25, y: -7}
+        - {x: 25, y: 3}
+        - {x: -4, y: 17}
+    - name: left_arm
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 72
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 37}
+        - {x: -18, y: 26}
+        - {x: -38, y: -8}
+        - {x: -38, y: -37}
+        - {x: 5, y: -37}
+        - {x: 38, y: -1}
+        - {x: 38, y: 24}
+        - {x: 27, y: 37}
+    - name: left_arm_for_staff
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 146
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -21, y: -24}
+        - {x: 19, y: -24}
+        - {x: 21, y: -16}
+        - {x: 21, y: 18}
+        - {x: 14, y: 24}
+    - name: left_bedro
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 258
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32.5}
+        - {x: -26, y: 32.5}
+        - {x: -26, y: 7.5}
+        - {x: 3, y: -32.5}
+        - {x: 26, y: -32.5}
+        - {x: 26, y: -5.5}
+        - {x: 20, y: 15.5}
+    - name: left_boot
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 146
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 19.5}
+        - {x: -40, y: -19.5}
+        - {x: 40, y: -19.5}
+        - {x: 40, y: 16.5}
+        - {x: 29, y: 19.5}
+    - name: left_leg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -9.5}
+        - {x: -22, y: -36.5}
+        - {x: -7, y: -36.5}
+        - {x: 22, y: 13.5}
+        - {x: 22, y: 36.5}
+        - {x: 3, y: 36.5}
+        - {x: -14, y: 29.5}
+    - name: light_bedro
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 72
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 34.5}
+        - {x: -27.5, y: 34.5}
+        - {x: -27.5, y: 11.5}
+        - {x: 4.5, y: -34.5}
+        - {x: 24.5, y: -34.5}
+        - {x: 27.5, y: -32.5}
+        - {x: 27.5, y: -19.5}
+        - {x: -6.5, y: 31.5}
+    - name: poyas
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right_arm
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2
+        width: 137
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: -31}
+        - {x: -67.5, y: -34}
+        - {x: -45.5, y: -34}
+        - {x: 37.5, y: -6}
+        - {x: 68.5, y: 17}
+        - {x: 68.5, y: 34}
+        - {x: -29.5, y: 34}
+        - {x: -68.5, y: 29}
+    - name: right_arm_for_staff
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 17}
+        - {x: -16, y: -12}
+        - {x: 0, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: -2}
+        - {x: 2, y: 19}
+    - name: right_boot
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 21.5}
+        - {x: -20, y: 28.5}
+        - {x: -36, y: 28.5}
+        - {x: -37, y: 25.5}
+        - {x: -38, y: 18.5}
+        - {x: -38, y: -5.5}
+        - {x: -18, y: -14.5}
+        - {x: 21, y: -28.5}
+        - {x: 38, y: -28.5}
+        - {x: 38, y: -14.5}
+        - {x: 32, y: -5.5}
+    - name: right_leg
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 213
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 21.5}
+        - {x: -37.5, y: 1.5}
+        - {x: -33.5, y: -9.5}
+        - {x: 5.5, y: -21.5}
+        - {x: 37.5, y: -21.5}
+        - {x: 37.5, y: -12.5}
+        - {x: -19.5, y: 21.5}
+    - name: right_pie4o
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 70.5}
+        - {x: -51.5, y: 59.5}
+        - {x: -51.5, y: 12.5}
+        - {x: -12.5, y: -70.5}
+        - {x: 24.5, y: -70.5}
+        - {x: 35.5, y: -36.5}
+        - {x: 35.5, y: -3.5}
+        - {x: -7.5, y: 70.5}
+      - - {x: 48.5, y: -43.5}
+        - {x: 50.5, y: -45.5}
+        - {x: 51.5, y: -45.5}
+        - {x: 51.5, y: -40.5}
+        - {x: 49.5, y: -40.5}
+    - name: skull
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 145
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -18.5, y: 18}
+        - {x: -18.5, y: -15}
+        - {x: -11.5, y: -20}
+        - {x: -0.5, y: -20}
+        - {x: 18.5, y: -12}
+        - {x: 18.5, y: -2}
+        - {x: 6.5, y: 20}
+    - name: staff
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 125
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 220}
+        - {x: -62.5, y: 68}
+        - {x: -52.5, y: 52}
+        - {x: -18.5, y: -34}
+        - {x: -32.5, y: -213}
+        - {x: -26.5, y: -220}
+        - {x: 18.5, y: -220}
+        - {x: 48.5, y: -46}
+        - {x: 62.5, y: -8}
+        - {x: 62.5, y: 220}
+    - name: tunica_za_nogoi
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 186
+        width: 108
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
